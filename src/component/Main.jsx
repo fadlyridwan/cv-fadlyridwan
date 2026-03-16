@@ -128,7 +128,7 @@ const Main = () => {
           </h2>
 
           {/* Description */}
-          <p className="text-gray-300 pt-4 max-w-[500px]">
+          <p className="flex justify-center lg:justify-start text-gray-300 pt-4 max-w-[500px]">
             Passionate about building modern web applications and ensuring
             software quality through testing and automation.
           </p>
