@@ -5,7 +5,7 @@ const data = [
   {
     year: "2022 - Last Contract 30 Juni 2026",
     title: "PT. Berlian Sistem Informasi - Quality Assurance Engineer",
-    duration: "1 Years",
+    duration: "4 Years",
     details: [
       "Make Scenario testing from the CR (Customer Requirements) obtained.",
       "Conduct SIT (System Integration Testing) from the results of scenarios that have been made, scenarios include positive testing and negative testing.",
