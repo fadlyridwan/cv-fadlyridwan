@@ -2,7 +2,7 @@ import React from "react";
 import Projectitem from "./Projectitem";
 import web1Img from "../images/webfadly1.png";
 import web2Img from "../images/webfadly2.png";
-import web3Img from "../images/webfadly3.png";
+import web3Img from "../images/Prioritas.png";
 import web4Img from "../images/webfadly4.png";
 
 const Projects = () => {
@@ -29,15 +29,15 @@ const Projects = () => {
         />
         <Projectitem
           img={web3Img}
-          title="Bp Juara App"
-          link="https://bpjuara.bintangpelajar.com/home"
-          createBy="CI3 & PHP "
+          title="Prioritas Group Web"
+          link="https://erp.prioritasgroup.com/"
+          createBy="CI3 & Laravel "
         />
         <Projectitem
           img={web4Img}
-          title="BP App"
+          title="Bintang Pelajar Web"
           link="https://www.bintangpelajar.com/"
-          createBy="CI3 & PHP"
+          createBy="CI3 & React JS"
         />
       </div>
     </div>
