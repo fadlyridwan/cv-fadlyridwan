@@ -38,7 +38,7 @@ const data = [
     year: "2018 - 2020",
     title:
       "PT. Prioritas Group Head Office, Bogor - IT Implementation / IT Quality Assurance",
-    duration: "2 Years",
+    duration: "2,5 Years",
     details: [
       "Perform maintenance of programs running in the branch.",
       "Conduct IT branch training in the use of Web & Mobile Apps.",
@@ -49,7 +49,7 @@ const data = [
   {
     year: "2016 - 2017",
     title: "PT. Prioritas Group Head Office, Bogor - Administration AR",
-    duration: "1 Years",
+    duration: "2 Years",
     details: [
       "Conduct visits to national branches to improve branches with low collection & high arrears.",
       "Assist branches in billing processes.",
